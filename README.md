@@ -47,6 +47,12 @@ This program is developed to complete the final assignment for KU1102 Pengenalan
 
 --- 
 
+## Further Information
+- [Assigment Specification](Specification\KU1102_TugasBesarI_K23_sem12021.pdf)
+- [Assignment Report](Report\Laporan-Tugas-Besar-Pengkom.pdf)
+
+---
+
 ## Author
 |Name   |NIM   |
 |:---:|:---:|
