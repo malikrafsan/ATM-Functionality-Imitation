@@ -19,11 +19,11 @@ This program is developed to complete the final assignment for KU1102 Pengenalan
 1. Open your terminal (bash) in your dedicated folder for this repo
 2. Clone this repository
     ```sh
-    git clone https://github.com/malikrafsan/Tugas-Besar-KU1102.git
+    git clone https://github.com/malikrafsan/ATM-Functionality-Imitation.git
     ```
 3. Change directory into this repo
     ```sh
-    cd Tugas-Besar-KU1102
+    cd ATM-Functionality-Imitation
     ```
 4. Run python file (main.py)
     ```sh
